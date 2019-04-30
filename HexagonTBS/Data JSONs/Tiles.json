@@ -1,0 +1,18 @@
+
+[
+    {
+    "tileId": 1,
+    "tileName": "Grassland",
+    "moveCost": 2,
+    "passable": true,
+    "imgName": "Grassland_Hex"
+    },
+    {
+    "tileId": 2,
+    "tileName": "Forest",
+    "moveCost": 1,
+    "passable": true,
+    "imgName": "Forest_Hex"
+    }
+]
+
